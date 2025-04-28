@@ -9,11 +9,11 @@ The initial implementation converts between Orchestra version 1.0 and these othe
 ### FIX standards and schemas
 References for these standards and their XML schemas are available in GitHub.
 
-[FIX Orchestra](https://github.com/FIXTradingCommunity/fix-orchestra)
+[Orchestra](https://github.com/FIXTradingCommunity/fix-orchestra)
 The XSD files for Orchestra are in module `repository` while the Unified Repository schema is in
 module `repository2010`.
 
-[FIX Simple Binary Encoding (SBE)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding)
+[Simple Binary Encoding (SBE)](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding)
 Currently version 1.0 is supported.
 
 
@@ -93,7 +93,7 @@ python3 orchestratransposer.py tests/xml/OrchestraFIXLatest.xml --to unif -o Rep
 
 ## License
 
-© Copyright 2022 FIX Protocol Limited
+© Copyright 2025 FIX Protocol Limited
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
